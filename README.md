@@ -1,10 +1,7 @@
 # 🐞 nanovector: Efficient Vector Database with NumPy
 
 nanovector is a lightweight, NumPy-powered vector database. It simplifies vector data storage and retrieval, making it perfect for embeddings and high-dimensional data.
-
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/933694512960774185/1135229083291226232/image.png" width="50%">
-</div>
+gt
 
 ## 🙋‍♀️ Why nanovector?
 
