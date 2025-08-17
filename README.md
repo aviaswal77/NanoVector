@@ -1,11 +1,11 @@
-# 🐞 nanovector: Efficient Vector Database with NumPy
+# 🐞 NanoVector: Efficient Vector Database with NumPy
 
-nanovector is a lightweight, NumPy-powered vector database. It simplifies vector data storage and retrieval, making it perfect for embeddings and high-dimensional data.
+NanoVector is a lightweight, NumPy-powered vector database. It simplifies vector data storage and retrieval, making it perfect for embeddings and high-dimensional data.
 gt
 
-## 🙋‍♀️ Why nanovector?
+## 🙋‍♀️ Why NanoVector?
 
-**Vector databases**, like nanovector, are essential for:
+**Vector databases**, like NanoVector, are essential for:
 
 1. **High-Dimensional Data:** Storing complex, multi-dimensional vectors efficiently.
 
@@ -13,13 +13,13 @@ gt
 
 3. **Scalability:** Handle large datasets effortlessly.
 
-nanovector excels because it's:
+NanoVector excels because it's:
 
 - **Lightweight:** Minimalist and easy to integrate, 
   
 - **Efficient:** Speedy storage and retrieval using barebone numpy.
 
-- **Dockerized:** Easily deploy Nanovector in containerized environments.
+- **Dockerized:** Easily deploy NanoVector in containerized environments.
 
 - **Direct Text to Vector Pipeline:** Seamlessly convert text data into vectors within the database.
 
@@ -28,7 +28,7 @@ nanovector excels because it's:
 - **Open Source:** Customizable and transparent.
 
 ## 🎨 Features
-Nanovector offers the following key features:
+NanoVector offers the following key features:
 - Efficient vector storage and retrieval.
 - Dockerized for easy deployment.
 - Direct pipeline for converting text to vectors.
@@ -37,7 +37,7 @@ Nanovector offers the following key features:
 
 ## 🍥 System Design
 
-<img width="75%" alt="image" src="https://github.com/MananSuri27/nanovector/assets/84636031/10a1e1b8-816e-4041-98b8-18a85a5ff977">
+<img width="75%" alt="image" src="https://github.com/aviaswal77/NanoVector/assets/84636031/10a1e1b8-816e-4041-98b8-18a85a5ff977">
 
 ## ⛏️ Set-up
 ### 🐳 Docker
@@ -45,12 +45,12 @@ Assuming you have docker installed, you can easily use docker to setup the vecto
 
 1. Pull the Docker image from Docker Hub:
    ```bash
-   docker pull manansuri27/nanovector
+   docker pull manansuri27/NanoVector
    ```
    
 2. Run the image now,
    ```bash
-   docker run manansuri27/nanovector
+   docker run manansuri27/NanoVector
    ```
 The server will be running on `localhost:5000` now.
 
@@ -59,13 +59,13 @@ Follow the steps below to setup the repository and run the server.
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/MananSuri27/nanovector.git
-   cd nanovector
+   git clone https://github.com/aviaswal77/NanoVector.git
+   cd NanoVector
    ```
 3. Create a conda environment, and activate it
    ```bash
-   conda create -n nanovector
-   conda activate nanovector
+   conda create -n NanoVector
+   conda activate NanoVector
    ```
 5. Install dependencies
    ```bash
@@ -78,7 +78,7 @@ Follow the steps below to setup the repository and run the server.
 The server will be running on `localhost:5000` now.
 
 ## 📜 API Documentation
-API Documentation is available in the [app directory](https://github.com/MananSuri27/nanovector/blob/main/app/README.md).
+API Documentation is available in the [app directory](https://github.com/aviaswal77/NanoVector/blob/main/app/README.md).
 ## 🧪 Testing
 Once you have `pytest` installed, test using:
 ```bash
@@ -91,4 +91,4 @@ pytest
 
 
 ## 📇 Contact
-Contact me on [Linkedin](https://www.linkedin.com/in/manansuri27/), drop an [email](mailto:manansuri27@gmail.com), or check me out on my website [manansuri.com](https://manansuri.com/).
+Contact me on [Linkedin](https://www.linkedin.com/in/avi-aswal/), drop an [email](mailto:aswal@usc.edu).
