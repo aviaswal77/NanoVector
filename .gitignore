@@ -1,0 +1,9 @@
+playground.ipynb
+**/__pycache__/
+/__pycache__/
+index/__pycache__
+utils/__pycache__
+
+tests/.pytest_cache
+
+.pytest_cache
