@@ -37,6 +37,8 @@ NanoVector offers the following key features:
 
 ## 🍥 System Design
 
+![alt text](image.png)
+
 <img width="75%" alt="image" src="https://github.com/aviaswal77/NanoVector/assets/84636031/10a1e1b8-816e-4041-98b8-18a85a5ff977">
 
 ## ⛏️ Set-up
@@ -45,12 +47,12 @@ Assuming you have docker installed, you can easily use docker to setup the vecto
 
 1. Pull the Docker image from Docker Hub:
    ```bash
-   docker pull manansuri27/NanoVector
+   docker pull aviaswal/NanoVector
    ```
    
 2. Run the image now,
    ```bash
-   docker run manansuri27/NanoVector
+   docker run aviaswal/NanoVector
    ```
 The server will be running on `localhost:5000` now.
 
